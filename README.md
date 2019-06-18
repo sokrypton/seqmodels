@@ -6,4 +6,5 @@ Generative models are often used to capture the multivariate distribution of rel
 [Read more (arXiv)](https://arxiv.org/abs/1906.02598)
 
 [ICML Slides](https://docs.google.com/presentation/d/1uXGsgV7Fxhut8_cfgbHrTx1IHboR9OFi9ZMmZT1HvJs)
+
 [ICML Poster](https://docs.google.com/presentation/d/1z_7hw_tTfDUNeTiPuOPO5EdokhC76Sa9JpR4sD8UyOA)
